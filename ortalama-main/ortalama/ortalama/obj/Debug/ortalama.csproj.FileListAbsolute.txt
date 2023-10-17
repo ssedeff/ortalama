@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10a\ortalama\ortalama\bin\Debug\ortalama.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10a\ortalama\ortalama\bin\Debug\ortalama.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\ortalama\ortalama\bin\Debug\ortalama.pdb
+C:\Users\User\Desktop\KORUMASIZ\10a\ortalama\ortalama\obj\Debug\ortalama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\ortalama\ortalama\obj\Debug\ortalama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\ortalama\ortalama\obj\Debug\ortalama.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\ortalama\ortalama\obj\Debug\ortalama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\ortalama\ortalama\obj\Debug\ortalama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\ortalama\ortalama\obj\Debug\ortalama.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\ortalama\ortalama\obj\Debug\ortalama.pdb
+C:\Users\User\Desktop\KORUMASIZ\10a\ortalama\ortalama\obj\Debug\ortalama.Form1.resources
